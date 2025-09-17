@@ -13,6 +13,5 @@ p {
 #map {
   display: block;
   margin: auto;
-  width: auto;
   object-fit: cover;
 }
