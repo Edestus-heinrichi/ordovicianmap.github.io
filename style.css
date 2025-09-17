@@ -11,7 +11,7 @@ p {
 }
 
 #map {
-  display: block;
+  display: flex;
   margin: auto;
   width: 80%;
   height: auto;
