@@ -13,7 +13,7 @@ p {
 #map {
   display: flex;
   margin: auto;
-  width: 50%;
+  width: 70%;
   height: auto;
   object-fit: contain;
 }
