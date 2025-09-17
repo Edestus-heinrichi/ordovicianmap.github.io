@@ -13,9 +13,8 @@ p {
 #map {
   display: flex;
   margin: auto;
-  height: 60%;
   width: auto;
-  object-fit: cover;
+  object-fit: contain;
 }
 
 .slidecontainer{
