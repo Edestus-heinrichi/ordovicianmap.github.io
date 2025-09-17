@@ -9,3 +9,9 @@ h1 {
 p {
   text-align: center;
 }
+
+#map {
+  display: block;
+  margin: auto;
+  width: 80%
+}
