@@ -13,6 +13,6 @@ p {
 #map {
   display: block;
   margin: auto;
-  width: auto
+  width: auto;
   object-fit: contain;
 }
