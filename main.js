@@ -1,4 +1,4 @@
 time() {
-  var time = 486 - int(document.getElementById('timeOutput').innerText)
-  window.alert(time)
+  var time = 486 - int(document.getElementById('timeInput').innerText)
+  document.getElementById('timeOutput').innerText = time
 }
