@@ -6,7 +6,12 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Ordovician Lagerstätten Mapped</title>
     <link rel="stylesheet" href="./style.css">
-    <script src="main.js"></script>
+    <script>
+      function time() {
+        var time = 486 - int(document.getElementById('timeInput').innerHTML)
+        document.getElementById('timeOutput').innerText = time
+      }
+    </script>
     <link rel="icon" href="./favicon.ico" type="image/x-icon">
   </head>
   <body>
