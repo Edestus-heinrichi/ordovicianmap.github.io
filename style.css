@@ -6,6 +6,10 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  text-align: center;
+}
+
 p {
   text-align: center;
 }
@@ -16,6 +20,10 @@ p {
   width: 70%;
   height: auto;
   object-fit: contain;
+}
+
+#time {
+  width: 70%
 }
 
 .slidecontainer{
